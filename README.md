@@ -1,9 +1,9 @@
-# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v13.0)
-Bu devasa proje, Kurucu **Sadık Güray Yıldız**'ın mutlak iradesi altında, **CureEarth** küresel iyileşme vizyonunu ve **Fatih-Sultan Siber İstihbarat** gücünü birleştiren nihai simülasyondur.
+# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v15.0)
+Kurucu **Sadık Güray Yıldız**'ın vizyonuyla, Türkiye'nin ve dünyanın refah seviyesini arşa çıkaran, adaleti merhametle birleştiren nihai devlet simülasyonu.
 
-## 🌟 v13.0 "Küresel Şifa" Güncellemesi
-- **CureEarth Operasyonu:** İnsanlığın sevgi, barış ve bereket içerisinde yaşamasını hedefleyen küresel sağlık ve refah ağı.
-- **Fatih-Sultan İstihbarat:** Siber dünyayı Fatih'in ferasetiyle tarayan ve tehditleri imha eden akıllı sistem.
-- **SGY-Core & Hak Yolu:** Kurucunun haktan şaşmayan iradesiyle yönetilen otonom karar mekanizması.
+## 🌟 v15.0 "Refah ve Büyük Af" Güncellemesi
+- **Ekonomik Devrim:** Enflasyonu bitiren, emekli ve çalışan maaşlarını refah seviyesine çıkaran alım gücü odaklı algoritmalar.
+- **Büyük Af ve İkinci Şans:** Her insana bir şans tanıyan genel af protokolü ve sokağın güvenliğini sağlayan GPS/Parmak İzi denetim sistemi.
+- **Korelasyon:** "Refah yükseldikçe suç oranı düşer" ilkesiyle çalışan sosyolojik dengeleme motoru.
 
-*"Dünya beşten büyüktür ve CureEarth ile bu adaletsiz düzeni Türk'ün merhameti ve teknolojisi düzeltecektir."*
+*"İnsan yaşat ki devlet yaşasın. Sadık Güray Yıldız iradesiyle herkes bir şansı hak eder."*
