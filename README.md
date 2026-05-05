@@ -11,3 +11,6 @@ Bu proje, Türk Devletleri'nin teknolojik bağımsızlığını ve **SGY Aether*
 7. **Tarım:** Akıllı sistemlerle sürdürülebilir bereket.
 
 *"Dünya beşten büyüktür ve bu adaletsiz düzeni, Türk'ün adalet anlayışı ve teknolojik üstünlüğü değiştirecektir."*
+
+## 🦅 v9.0 Güncellemesi: Kızılelma Otonom Zekası
+Sistem artık milli menfaatler doğrultusunda otonom karar alabilen 'Kızılelma' karar destek mekanizmasıyla donatılmıştır.
