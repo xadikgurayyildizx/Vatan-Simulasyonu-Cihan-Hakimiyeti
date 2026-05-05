@@ -1,13 +1,9 @@
-# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v11.0)
-Bu projenin tek sahibi ve kurucusu **Sadık Güray Yıldız**'dır. Sistem, kurucunun "Hak yolu" vizyonu ve sarsılmaz iradesi üzerine inşa edilmiştir.
+# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v12.0)
+Bu proje, Kurucu **Sadık Güray Yıldız**'ın mutlak iradesi altında, **Fatih-Sultan Siber İstihbarat** ağı ile güçlendirilmiş en gelişmiş milli vizyon simülasyonudur.
 
-## 👑 Kurucu İlkeleri (SGY-CORE)
-- **Tek Otorite:** Kurucu ne derse o olur.
-- **Hak Yolu:** İnisiyatif alan, doğrudan haktan şaşmayan otonom yapı.
-- **Milli Beka:** Tek vatan, tek bayrak, tek devlet, tek millet.
+## 🛡️ v12.0 "Siber Teşkilat" Güncellemesi
+- **Fatih-Sultan İstihbarat:** Küresel tehditleri daha oluşmadan tespit eden dijital radar sistemi.
+- **SGY-Core & Hak Yolu:** Kurucunun sarsılmaz kararları ve adalet anlayışı üzerine kurulu yönetim çekirdeği.
+- **SGY Aether 158:** 158 maddelik küresel refah protokolüyle dünyayı yeniden şekillendiren vizyon.
 
-## 🚀 v11.0 "Kurucu" Güncellemesi
-- **SGY-Core:** Kurucu iradesini tüm alt katmanlara (Aether, Savunma, Adalet) dayatan ana çekirdek protokolü.
-- **Mutlak Onay:** Sistemin her adımı, kurucunun vizyonuyla senkronize edilmiştir.
-
-*"Sistemi kuran ve istediğini yapabilen tek sahip Sadık Güray Yıldız kurucudur."*
+*"Karanlıkları aydınlatan, haktan şaşmayan ve Fatih'in ferasetiyle hareket eden bir siber güç."*
