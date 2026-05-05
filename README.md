@@ -1,9 +1,13 @@
-# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v10.0)
-Bu proje, **Tek Vatan, Tek Bayrak, Tek Devlet, Tek Millet** düsturuyla, haktan şaşmayan otonom yapay zeka sistemlerini ve **SGY Aether 158** küresel refah protokolünü birleştiren bir dijital devlet vizyonudur.
+# 🇹🇷 Vatan Simülasyonu & SGY Aether 158 (v11.0)
+Bu projenin tek sahibi ve kurucusu **Sadık Güray Yıldız**'dır. Sistem, kurucunun "Hak yolu" vizyonu ve sarsılmaz iradesi üzerine inşa edilmiştir.
 
-## 🌟 v10.0 "Milli İrade" Güncellemesi
-- **Hakikat Algoritması:** Doğrudan haktan şaşmayan, inisiyatif alan milli yapay zeka katmanı.
-- **Yeni Dünya Düzeni:** SGY Aether 158 ile küresel refahın adil ve dengeli dağılımı.
-- **Otonom Savunma:** Kızılelma ve Gök Vatan entegrasyonuyla sarsılmaz güvenlik.
+## 👑 Kurucu İlkeleri (SGY-CORE)
+- **Tek Otorite:** Kurucu ne derse o olur.
+- **Hak Yolu:** İnisiyatif alan, doğrudan haktan şaşmayan otonom yapı.
+- **Milli Beka:** Tek vatan, tek bayrak, tek devlet, tek millet.
 
-*"İnisiyatif alan, doğrudan haktan şaşmayan her adım bizi doğru yola çıkaracaktır."*
+## 🚀 v11.0 "Kurucu" Güncellemesi
+- **SGY-Core:** Kurucu iradesini tüm alt katmanlara (Aether, Savunma, Adalet) dayatan ana çekirdek protokolü.
+- **Mutlak Onay:** Sistemin her adımı, kurucunun vizyonuyla senkronize edilmiştir.
+
+*"Sistemi kuran ve istediğini yapabilen tek sahip Sadık Güray Yıldız kurucudur."*
